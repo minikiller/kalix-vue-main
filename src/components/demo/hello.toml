@@ -1,0 +1,2 @@
+HelloMsg = "Welcome to My kalix Vue.js App"
+logoutUrl = "/logout"
